@@ -30,6 +30,13 @@ class Musics {
                 singer: '未知',
                 songUrl: './songs/Love.mp3',
                 imageUrl: './images/songs/c.jpg'
+            },
+           {
+                id: 2,
+                title: 'Red Stars',
+                singer: 'The Birthday Massacre',
+                songUrl: './songs/2302981_16133955_l.mp3',
+                imageUrl: './images/songs/1894751397733030.jpg'
             }
             //TiangJia
         ]
