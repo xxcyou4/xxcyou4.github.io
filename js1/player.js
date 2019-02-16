@@ -31,12 +31,47 @@ class Musics {
                 songUrl: './songs/Love.mp3',
                 imageUrl: './images/songs/c.jpg'
             },
-           {
+            {
                 id: 2,
                 title: 'Red Stars',
                 singer: 'The Birthday Massacre',
                 songUrl: './songs/2302981_16133955_l.mp3',
                 imageUrl: './images/songs/1894751397733030.jpg'
+            },
+            {
+                id: 3,
+                title: 'Faded',
+                singer: 'Alan Walker / Iselin Solheim',
+                songUrl: './songs/e37e93fe58eac7ae44df445d2f8874f0.mp3',
+                imageUrl: './images/songs/18277181788626198.jpg'
+            },
+            {
+                id: 4,
+                title: 'The Spectre',
+                singer: 'Alan Walker',
+                songUrl: './songs/5a6defdd4e5943a7245c7487aff15921.mp3',
+                imageUrl: './images/songs/109951163025213134.jpg'
+            },
+            {
+                id: 5,
+                title: 'Alone',
+                singer: 'Alan Walker / Noonie Bao',
+                songUrl: './songs/e5b86025cc116a5476b665abf04303ee.mp3',
+                imageUrl: './images/songs/18506979720205489.jpg'
+            },
+            {
+                id: 6,
+                title: 'HandClap',
+                singer: 'Fitz and The Tantrums',
+                songUrl: './songs/1795808095_1492872513646.mp3',
+                imageUrl: './images/songs/8712781492871279.jpg'
+            },
+            {
+                id: 7,
+                title: 'Call of the ambulance',
+                singer: 'Trackformerz',
+                songUrl: './songs/1802223728_1519887352175.mp3',
+                imageUrl: './images/songs/c.jpg'
             }
             //TiangJia
         ]
